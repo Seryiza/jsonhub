@@ -1,10 +1,17 @@
-# 📸🗂 Missed Site JSONs
 
-My collection of JS scripts to get information from various sites as JSON.
+<img width="200" height="200" alt="jsonhub" src="https://github.com/user-attachments/assets/5e234cd2-9233-4c90-82c7-a17e65bc412e" />
+
+# 📓 JSON Hub
+
+We have [RSSHub](https://github.com/DIYgod/RSSHub) for RSS - now **JSON Hub** for JSON.
 
 ## Hmm?
 
-It's simple and independent scripts: without dependencies, without shared functions, and I try to maintain them stupid but it works.
+JSON Hub has simple and independent scripts to get (parse, scrap) information as JSON from web services you use (YouTube, Reddit, Steam, Marketplaces, etc).
+
+Without dependencies, without shared functions, and I try to maintain them stupid but it works.
+
+## How to use it
 
 You can use it via DevTools (copy-paste to DevTools Console) or external tools (execute JS in playwright).
 
