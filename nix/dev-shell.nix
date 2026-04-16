@@ -42,6 +42,7 @@ pkgs.mkShell {
   packages = [
     playwriter
     pkgs.chromium
+    pkgs.jq
     pkgs.lsof
     installPlaywriterSkill
     jsonhubChrome
