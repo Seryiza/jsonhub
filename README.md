@@ -1,13 +1,14 @@
+<p align="right">
+  <img width="100" height="100" alt="jsonhub" src="https://github.com/user-attachments/assets/5e234cd2-9233-4c90-82c7-a17e65bc412e" />
+</p>
 
-<img width="200" height="200" alt="jsonhub" src="https://github.com/user-attachments/assets/5e234cd2-9233-4c90-82c7-a17e65bc412e" />
+# 🐦‍⬛ JSON hub
 
-# 📓 JSON Hub
-
-We have [RSSHub](https://github.com/DIYgod/RSSHub) for RSS - now **JSON Hub** for JSON.
+We have [RSSHub](https://github.com/DIYgod/RSSHub) for RSS - now [**JSON hub**](https://github.com/Seryiza/JSONhub) for JSON.
 
 ## Hmm?
 
-JSON Hub has simple and independent scripts to get (parse, scrap) information as JSON from web services you use (YouTube, Reddit, Steam, Marketplaces, etc).
+JSON hub has simple and independent scripts to get (parse, scrap) information as JSON from web services you use (YouTube, Reddit, Steam, Marketplaces, etc).
 
 Without dependencies, without shared functions, and I try to maintain them stupid but it works.
 
